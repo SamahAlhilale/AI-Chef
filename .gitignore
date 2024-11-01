@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Local development settings
+.env
+.idea/
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
